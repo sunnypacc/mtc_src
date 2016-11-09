@@ -1,6 +1,6 @@
 MetisCoin - ITC
-----------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------
+---------------
+---------------
 
 MetisCoin is a [pure](https://www.btw18.com) PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial  5500w coins, no PoW mining will get any coins. The 1 billion coins will be distributed equally to 1000 individuals with 1 million coins each, completely free based on the subscriptions in facebook, cryptocointalk and ecoiner website. 
 
